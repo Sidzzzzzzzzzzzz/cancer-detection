@@ -1,9 +1,10 @@
 # 🧬 Cancer Detection (Breast & Prostate MRI)
 
-An end-to-end **cancer detection pipeline** built with:
-- **PyTorch** for deep learning
-- **Flask (Python)** for the backend API
-- **React.js** for the frontend interface
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.12-red)
+![Flask](https://img.shields.io/badge/Flask-API-lightgrey)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 This project demonstrates a **full-stack ML deployment workflow**, focusing on **prostate** and **breast cancer detection** from MRI images using **3D U-Net** and other deep learning architectures.
 
