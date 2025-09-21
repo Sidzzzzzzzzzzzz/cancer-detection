@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (large datasets)
+data/
+*.npy
+*.mhd
+*.xml
+
+# Models (too large for git)
+backend/models/
+*.pth
+*.h5
+
+# Uploads & temp
+backend/uploads/
+*.tmp
+*.bak
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Others
+*.gz
+*.zip
+*.tar
+*.7z
+
+
+
